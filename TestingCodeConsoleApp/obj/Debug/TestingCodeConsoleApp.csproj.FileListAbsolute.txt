@@ -1,0 +1,10 @@
+c:\users\nicolas\source\repos\TestingCodeConsoleApp\TestingCodeConsoleApp\bin\Debug\TestingCodeConsoleApp.exe.config
+c:\users\nicolas\source\repos\TestingCodeConsoleApp\TestingCodeConsoleApp\bin\Debug\TestingCodeConsoleApp.exe
+c:\users\nicolas\source\repos\TestingCodeConsoleApp\TestingCodeConsoleApp\bin\Debug\TestingCodeConsoleApp.pdb
+c:\users\nicolas\source\repos\TestingCodeConsoleApp\TestingCodeConsoleApp\obj\Debug\TestingCodeConsoleApp.csproj.CoreCompileInputs.cache
+c:\users\nicolas\source\repos\TestingCodeConsoleApp\TestingCodeConsoleApp\obj\Debug\TestingCodeConsoleApp.exe
+c:\users\nicolas\source\repos\TestingCodeConsoleApp\TestingCodeConsoleApp\obj\Debug\TestingCodeConsoleApp.pdb
+C:\Users\Nicolas\source\repos\TestingCodeConsoleApp\TestingCodeConsoleApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nicolas\source\repos\TestingCodeConsoleApp\TestingCodeConsoleApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nicolas\source\repos\TestingCodeConsoleApp\TestingCodeConsoleApp\obj\Debug\TestingCodeConsoleApp.csproj.CopyComplete
+C:\Users\Nicolas\source\repos\TestingCodeConsoleApp\TestingCodeConsoleApp\obj\Debug\TestingCodeConsoleApp.csprojAssemblyReference.cache

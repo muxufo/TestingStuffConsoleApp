@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Nicolas\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Nicolas\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_TestingCodeConsoleApp.710509480.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Nicolas\source\repos\TestingCodeConsoleApp" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="TestingCodeConsoleApp" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="calls.cs" t="Include" />
+        <e p="calls.json" t="Include" />
+        <e p="ExtensionClass.cs" t="Include" />
+        <e p="GetContestPotentialWinnersQueryResult.cs" t="Include" />
+        <e p="ModelSMAT.cs" t="Include" />
+        <e p="Nicobar.cs" t="Include" />
+        <e p="nicobarRessource.json" t="Include" />
+        <e p="NicobarUser.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="QuestionOne.cs" t="Include" />
+        <e p="TestingCodeConsoleApp.csproj" t="IncludeRecursive" />
+        <e p="UserSMAT.cs" t="Include" />
+        <e p="VideoDescr.cs" t="Include" />
+      </e>
+      <e p="TestingCodeConsoleApp.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
